@@ -1,14 +1,24 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.22)  19 SEP 2011 10:09
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.2.16)  23 NOV 2011 17:48
 entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**ScottClarkResume.tex
-(./ScottClarkResume.tex
+**ManuelMalyResume.tex
+(./ManuelMalyResume.tex
 LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, bulgarian, ukrainian, russian, pinyin, loaded.
-(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
+, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
+kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
+german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
+ bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
+telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
+ lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
+nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
+ turkmen, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texmf-texlive/tex/latex/base/size11.clo
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -25,16 +35,16 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \outerbordwidth=\skip43
 
-(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/etc/texmf/tex/latex/config/color.cfg
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+(/usr/local/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
 \Gread@gobject=\count87
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
@@ -47,17 +57,17 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 
-(/usr/share/texmf/tex/latex/xcolor/svgnam.def
+(/usr/local/texlive/2010/texmf-dist/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2007/01/21 v2.11 Predefined colors according to SVG 1.1 (UK)
 ))
-(/usr/share/texmf-texlive/tex/latex/ltxmisc/framed.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2007/10/04 v 0.95: framed or shaded text with page breaks
 \fb@frw=\dimen103
 \fb@frh=\dimen104
 \FrameRule=\dimen105
 \FrameSep=\dimen106
 )
-(/usr/share/texmf-texlive/tex/latex/tocloft/tocloft.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2009/09/04 v2.3d parameterised ToC, etc., typesetting
 
 
@@ -96,9 +106,8 @@ Package tocloft Note: The document has section divisions.
 \cftbeforetabskip=\skip72
 \cfttabindent=\skip73
 \cfttabnumwidth=\skip74
-)
-No file ScottClarkResume.aux.
-\openout1 = `ScottClarkResume.aux'.
+) (./ManuelMalyResume.aux)
+\openout1 = `ManuelMalyResume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
 LaTeX Font Info:    ... okay on input line 98.
@@ -112,7 +121,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
 LaTeX Font Info:    ... okay on input line 98.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
 LaTeX Font Info:    ... okay on input line 98.
-(/usr/share/texmf/tex/context/base/supp-pdf.mkii
+
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count90
 \scratchdimen=\dimen107
@@ -133,7 +143,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 100.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 119.
 
- (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+ (/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
@@ -144,31 +154,31 @@ Overfull \vbox (18.06749pt too high) has occurred while \output is active []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Overfull \vbox (18.06749pt too high) has occurred while \output is active []
 
 
-[2] (./ScottClarkResume.aux) ) 
+[2] (./ManuelMalyResume.aux) ) 
 Here is how much of TeX's memory you used:
- 1645 strings out of 494808
- 21014 string characters out of 1178172
- 90258 words of memory out of 3000000
- 4874 multiletter control sequences out of 15000+50000
- 8403 words of font info for 30 fonts, out of 3000000 for 9000
- 212 hyphenation exceptions out of 8191
- 26i,10n,35p,383b,197s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsf
-onts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmb
-x12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
-mf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-texlive/
-fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/a
-msfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
-cmtt10.pfb>
-Output written on ScottClarkResume.pdf (2 pages, 132531 bytes).
+ 1641 strings out of 493747
+ 21293 string characters out of 3143546
+ 90871 words of memory out of 3000000
+ 4977 multiletter control sequences out of 15000+200000
+ 8235 words of font info for 29 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 26i,10n,35p,318b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2010/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmss12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmti10.pfb>
+Output written on ManuelMalyResume.pdf (2 pages, 98814 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 39 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
